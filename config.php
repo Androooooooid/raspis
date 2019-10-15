@@ -8,8 +8,8 @@
 	date_default_timezone_set(TIMEZONE);
 
 	$cfg = array(
-	'db_host' 			=> '127.0.0.1', //Хост.
-	'db_name'			=> 'raspisanie', //Имя.
+	'db_host' 			=> 'localhost', //Хост.
+	'db_name'			=> 'raspis', //Имя.
 	'db_user' 			=> 'root', //Имя юзера.
 	'db_pass' 			=> '', //Пароль.
 	);

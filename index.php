@@ -37,6 +37,7 @@
 
 		<link href="css/font-awesome.css" rel="stylesheet">
 		<link href="css/bootstrap-social.css" rel="stylesheet" type="text/css">
+		<link href="css/style.css" rel="stylesheet">
 		<style>
 			.btop{
 			border-top: 2px solid #000000;
@@ -90,5 +91,6 @@
 		</div>
 		<?php include('components/footer.php'); ?>
         <?php include('components/scripts.php'); ?>
+        <script src="js/jsblack.js" type="text/javascript"></script>
     </body>
 </html>
