@@ -17,7 +17,7 @@
             </li>
             <li class="list-inline-item">
                 <a class="btn btn-block btn-social btn-github" target="_blank">
-                    <span class="fa fa-github"></span> Тёмная тема
+                    <span class="fa fa-"></span> Тёмная тема
                 </a>
             </li>
         </ul>
